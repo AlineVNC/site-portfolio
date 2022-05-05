@@ -31,7 +31,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
 
 
-**comando para rodar o projeto**
+### comando para rodar o projeto
 
 
 ```
